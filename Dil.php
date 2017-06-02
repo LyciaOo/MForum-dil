@@ -48,5 +48,29 @@ $arr = array(
 		'Tribes' => 'Kabileler',
 		'Forum Games' => 'Forum Oyunları',
 		'Czech' => 'Çekce'
-	)
-);
+	) ,
+	'pl-PL' => array(
+		'English' => 'Angielski',
+		"Communities" => 'Społeczności',
+		'International' => 'Międzynarodowy',
+		'Announcements' => 'Ogłoszenia',
+		'Map Submissions' => 'Zgłoszenia map',
+		'French' => 'Francuski',
+		'Brazilian' => 'Brazylijski',
+		'Spanish' => 'Hiszpański',
+		'Turkish' => 'Turecki',
+		'Polish' => 'Polski',
+		'Hungarian' => 'Węgierski',
+		'Romanian' => 'Rumuński',
+		'Arabic' => 'Arabski',
+		'Russian' => 'Rosyjski',
+		'Filipino' => 'Filipiński',
+		'Forums' => 'Fora',
+		'Discussions' => 'Dyskusje',
+		'Off Topic' => 'Off Topic',
+		'Modules' => 'Moduły',
+		'Tribes' => 'Plemiona',
+		'Forum Games' => 'Gry Forumowe',
+		'Czech' => 'Czeski'
+	
+       
