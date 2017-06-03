@@ -74,5 +74,9 @@ $arr = array(
 		'Tribes' => 'Plemiona',
 		'Forum Games' => 'Gry Forumowe',
 		'Czech' => 'Czeski'
+		'Suggestions' => 'Sugestie'
+		'Threads' => 'Wątki'
+		'Messages' => 'Wiadomości'
+		
 	)
 );
